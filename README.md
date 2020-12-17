@@ -1,4 +1,5 @@
 # Switch_Color
+In group with Aditya made this game.
 Using JavaFX made the game.
 The game is o set on infinity mode.
 The player has to use a single input to keep the ball afloat as well as move upward.
